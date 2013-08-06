@@ -1,4 +1,4 @@
-GitHubUtilities2
+GitHubUtilities
 ================
 
 GitHub Utilities
